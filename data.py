@@ -1,6 +1,6 @@
 a=10
 b=20
 c=a-b
-print(c)
-print(a+b)
-print("in main branch")
+d=a+b
+print(c,d)
+print('in main branch')
